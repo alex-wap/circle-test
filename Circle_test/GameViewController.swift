@@ -2,15 +2,15 @@
 //  GameViewController.swift
 //  Circle_test
 //
-//  Created by Jennifer Zeller on 9/9/16.
-//  Copyright (c) 2016 Alex. All rights reserved.
+//  Created by Alex Wapniarski on 9/9/16.
+//  Copyright (c) 2016 Alex Wapniarski. All rights reserved.
 //
 
 import UIKit
 import SpriteKit
 
 class GameViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
