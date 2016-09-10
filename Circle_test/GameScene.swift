@@ -73,11 +73,7 @@ class GameScene: SKScene {
         crosshair.physicsBody = SKPhysicsBody(circleOfRadius: 20)
         crosshair.physicsBody!.affectedByGravity = true
         
-<<<<<<< HEAD
-        
-=======
 
->>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 
 //        let myLabel = SKLabelNode(fontNamed:"Chalkduster")
 //        myLabel.text = "Hello, World!"
@@ -89,24 +85,21 @@ class GameScene: SKScene {
     
     override func touchesBegan(touches: Set<UITouch>, withEvent event: UIEvent?) {
        /* Called when a touch begins */
-<<<<<<< HEAD
     
         for touch in touches {
             let location = touch.locationInNode(self)
             let shape = SKShapeNode(circleOfRadius: 50)
-=======
         
         for touch in touches {
             let location = touch.locationInNode(self)
             
             let shape = SKShapeNode(circleOfRadius: 10)
->>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
             shape.strokeColor = SKColor.blackColor()
             shape.fillColor = SKColor.greenColor()
             shape.xScale = 0.5
             shape.yScale = 0.5
             shape.position = location
-<<<<<<< HEAD
+
            
          let action = SKAction.rotateByAngle(CGFloat(M_PI), duration:1)
        
