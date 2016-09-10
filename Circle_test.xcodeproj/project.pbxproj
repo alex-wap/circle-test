@@ -7,14 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		2C7878291D846B48007E0196 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C7878281D846B48007E0196 /* Assets.xcassets */; };
 		2C78782B1D846B53007E0196 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 2C78782A1D846B53007E0196 /* Base.lproj */; };
 		2CA1B8A01D84828400D85C72 /* 174436__drminky__laser-gun-ice-beam.caf in Resources */ = {isa = PBXBuildFile; fileRef = 2C7878381D8481B8007E0196 /* 174436__drminky__laser-gun-ice-beam.caf */; };
+=======
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 		946034F71D833D490050482E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034F61D833D490050482E /* AppDelegate.swift */; };
 		946034F91D833D490050482E /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 946034F81D833D490050482E /* GameScene.sks */; };
 		946034FB1D833D490050482E /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034FA1D833D490050482E /* GameScene.swift */; };
 		946034FD1D833D490050482E /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034FC1D833D490050482E /* GameViewController.swift */; };
 		946035001D833D490050482E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 946034FE1D833D490050482E /* Main.storyboard */; };
+<<<<<<< HEAD
+=======
+		946035021D833D490050482E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 946035011D833D490050482E /* Assets.xcassets */; };
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 		946035051D833D490050482E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 946035031D833D490050482E /* LaunchScreen.storyboard */; };
 		946035101D833D490050482E /* Circle_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9460350F1D833D490050482E /* Circle_testTests.swift */; };
 		9460351B1D833D490050482E /* Circle_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9460351A1D833D490050482E /* Circle_testUITests.swift */; };
@@ -38,15 +45,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		2C7878281D846B48007E0196 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C78782A1D846B53007E0196 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
 		2C7878371D8481B8007E0196 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file; name = Base; path = "Base.lproj/174436__drminky__laser-gun-ice-beam.caf"; sourceTree = "<group>"; };
+=======
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 		946034F31D833D490050482E /* Circle_test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Circle_test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		946034F61D833D490050482E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		946034F81D833D490050482E /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		946034FA1D833D490050482E /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GameScene.swift; path = Circle_test/GameScene.swift; sourceTree = SOURCE_ROOT; };
 		946034FC1D833D490050482E /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		946034FF1D833D490050482E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+		946035011D833D490050482E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "/Users/jenzeller/Desktop/iOS Team/Circle_test/Circle_test/Assets.xcassets"; sourceTree = "<absolute>"; };
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 		946035041D833D490050482E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		946035061D833D490050482E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9460350B1D833D490050482E /* Circle_testTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Circle_testTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -82,6 +96,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+<<<<<<< HEAD
 		2C78782F1D847692007E0196 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
@@ -90,6 +105,8 @@
 			name = Sounds;
 			sourceTree = "<group>";
 		};
+=======
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 		946034EA1D833D490050482E = {
 			isa = PBXGroup;
 			children = (
@@ -113,14 +130,21 @@
 		946034F51D833D490050482E /* Circle_test */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				2C78782F1D847692007E0196 /* Sounds */,
+=======
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 				946034F61D833D490050482E /* AppDelegate.swift */,
 				946034F81D833D490050482E /* GameScene.sks */,
 				946034FA1D833D490050482E /* GameScene.swift */,
 				946034FC1D833D490050482E /* GameViewController.swift */,
 				946034FE1D833D490050482E /* Main.storyboard */,
+<<<<<<< HEAD
 				2C78782A1D846B53007E0196 /* Base.lproj */,
 				2C7878281D846B48007E0196 /* Assets.xcassets */,
+=======
+				946035011D833D490050482E /* Assets.xcassets */,
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 				946035031D833D490050482E /* LaunchScreen.storyboard */,
 				946035061D833D490050482E /* Info.plist */,
 			);
@@ -213,7 +237,11 @@
 				TargetAttributes = {
 					946034F21D833D490050482E = {
 						CreatedOnToolsVersion = 7.3.1;
+<<<<<<< HEAD
 						DevelopmentTeam = 7L4MTHDFPZ;
+=======
+						DevelopmentTeam = TTT5AMJSE2;
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 					};
 					9460350A1D833D490050482E = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -252,10 +280,15 @@
 			files = (
 				946034F91D833D490050482E /* GameScene.sks in Resources */,
 				946035051D833D490050482E /* LaunchScreen.storyboard in Resources */,
+<<<<<<< HEAD
 				946035001D833D490050482E /* Main.storyboard in Resources */,
 				2C78782B1D846B53007E0196 /* Base.lproj in Resources */,
 				2CA1B8A01D84828400D85C72 /* 174436__drminky__laser-gun-ice-beam.caf in Resources */,
 				2C7878291D846B48007E0196 /* Assets.xcassets in Resources */,
+=======
+				946035021D833D490050482E /* Assets.xcassets in Resources */,
+				946035001D833D490050482E /* Main.storyboard in Resources */,
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,6 +351,7 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+<<<<<<< HEAD
 		2C7878381D8481B8007E0196 /* 174436__drminky__laser-gun-ice-beam.caf */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -327,6 +361,8 @@
 			path = ../../shootingsound;
 			sourceTree = "<group>";
 		};
+=======
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 		946034FE1D833D490050482E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -439,7 +475,11 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Circle_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = "surya.com.Team-Jamaica.Circle-test";
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = "Team-Jamaica.Circle-test";
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -453,7 +493,11 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Circle_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = "surya.com.Team-Jamaica.Circle-test";
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = "Team-Jamaica.Circle-test";
+>>>>>>> 3308a412598bf1afe105cb50e78f5bf5031563fc
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
